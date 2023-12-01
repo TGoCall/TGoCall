@@ -6,6 +6,7 @@
 *.exe~
 *.dll
 *.so
+*.sum
 *.dylib
 
 # Test binary, built with `go test -c`
@@ -19,3 +20,6 @@
 
 # Go workspace file
 go.work
+
+# sub-modules
+/td/
